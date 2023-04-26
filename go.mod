@@ -1,3 +1,5 @@
-module v1
+module github.com/oobattousai/go-grpc.git
 
 go 1.20
+
+require github.com/google/uuid v1.3.0
